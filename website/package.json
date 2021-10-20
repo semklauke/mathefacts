@@ -14,7 +14,9 @@
     "bootstrap": "^4.6.0",
     "bootstrap-vue": "^2.21.2",
     "core-js": "^3.15.1",
-    "nuxt": "^2.15.7"
+    "nuxt": "^2.15.7",
+    "rehype-mathjax": "3.1.0",
+    "remark-math": "4.0.0"
   },
   "devDependencies": {
     "@nuxt/types": "^2.15.7",
