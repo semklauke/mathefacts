@@ -27,8 +27,8 @@ export default Vue.extend({
     height: 65px;
 } 
 
-.facts_group a,
-.facts_group a:visited {
+.facts_col > a,
+.facts_col > a:visited {
   text-decoration: none;
   color: inherit;
 }

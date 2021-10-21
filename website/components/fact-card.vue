@@ -115,11 +115,4 @@ export default Vue.extend({
     right: 0;
     z-index: 2;
 }
-
-a,
-a:hover,
-a:active {
-  text-decoration: none;
-  color: inherit;
-}
 </style>

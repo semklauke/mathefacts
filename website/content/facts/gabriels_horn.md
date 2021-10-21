@@ -15,16 +15,16 @@ episode:
 
 <img src="https://soulofmathematics.com/wp-content/uploads/2021/03/GettyImages-123689209-56c4f8273df78c763fa076c1-removebg-preview.png" class="b img_small f_right" />
 
-Üblicherweise, wenn man sich eine Körper mit unendlicher Oberfläche vorstellt, denkt man auch, dass das Volumen unendlich sein muss.
+Üblicherweise, wenn man sich eine Körper mit unendlicher großer Oberfläche vorstellt, denkt man auch, dass das Volumen unendlich sein müsste.
 
-Aber der Körper bennant nach dem Horn das der Erzengle Gabriel spielt hat genau diese Eigenschaft.
+Aber der Körper, bennant nach dem Horn das der Erzengle Gabriel spielt, hat genau diese Eigenschaft.
 
 
 Um den Körper zu konstruieren nimmt man die Funktion $ f(x) = \frac{1}{x} $ für $x \geq 1 $ und rotiert sie um die x Achse.
 
 <img src="/images/1facx.jpg" class="b img_full" /><br />
 
-Die Erklärung von Rezo so bezog sich dabei dabei auy die diskrete Variante von diesem Problem, auch genannt [Gabriel's Wedding Cake](https://www.matharticles.com/ma/ma044.pdf).
+Die Erklärung von Rezo so bezog sich dabei auf die diskrete Variante von diesem Paradox, auch genannt [Gabriel's Wedding Cake](https://www.matharticles.com/ma/ma044.pdf).
 Diskret im gegensatz zu Analytisch beudeutet etwas vereinfacht in der Mathematik, dass wir nicht mit Rellen Zahlen arbeiten, sonder nur mit Ganzen Zahlen oder auch Brüchen.
 
 Enssprechend ist die Funktion, die um die x-Achse rotiert wird, bei dem "Kuchen" $ f(x) = \frac{1}{\lfloor x \rfloor} $ ( $ \lfloor x \rfloor $ beudeutet abrunden).
