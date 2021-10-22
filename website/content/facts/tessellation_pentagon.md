@@ -1,6 +1,6 @@
 ---
 title: Tessellation von Fünfecken
-desc: Bei der Tessellation versucht man einen boden lückenlose mit gleichen fliesen auszulegen. Nimmt man Fünfecke steht man hier vor einer spannenden Aufgabe mit viel Hisotrie und Anwendung z.B. in Computer Graphics
+desc: Bei der Tessellation versucht man einen Boden lückenlos mit gleichen Fliesen auszulegen. Nimmt man Fünfecke steht man hier vor einer spannenden Aufgabe mit viel Hisotrie und Anwendung z.B. in Computer Graphics
 tags:
     - Mathe
 nr: 14
@@ -13,8 +13,39 @@ episode:
     timestamp: 2288
 ---
 
-# Tessellation von Fünfecken
+Die Tessellation (oder Deutsch [Parkettierung](https://de.wikipedia.org/wiki/Parkettierung)) ist eine Disziplin in der Geometrie und Toplogie. Dabei versuchet man gleichförmige Teilflächen zu finden und zu beschreiben die lückenlose und überlappungsfreie Ebenen übberdecken. Hierbei kann man viele Komplizierte Objekte betrachen. Wir beschränken uns auf [Polygone](https://de.wikipedia.org/wiki/Polygon) als Teilflächen.
 
+> Polygone sind auf einer Ebene liegende (also flach 2D), willkürliche Formen mit mindestens drei Ecken.
+
+Etwas Anschaulicher formuliert, besteht die Aufgabe darin deinen Boden (der Rechteckig ist) mit immer der Gleichen Fliese auszulegen, so dass keine Lücken entstehen. Nur am Rand darf abgeschnitten werden. Bei Viereckigen Fliesen geht das offensichtlich, bei Kreisen offensichtlich nicht:
+
+<span class="img_container">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Tiling_Regular_4-4_Square.svg" class="img_small" /><br />
+<span> Viereckige Fliesen (keine Lücken)</span>
+</span>
+<span class="img_container">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/16_circles_in_a_square.svg" class="img_small" style="width:250px" /> <br />
+<span> Kreisförmige Fliesen (Lücken zwischen den Kreisen, egals was man macht)</span>
+</span>
+
+Aber warum sind gerade Fünfecke (also Polygone mit 5 Ecken) interessant ?
+
+Das liegt daran, dass die Mathematik für alle Polygone mit mehr oder weniger als 5 Ecken schon eine definitieve Antwort hat:
+
+* Bei Polygonen mit 3 oder 4 Ecken (Dreicke und Rechtecke) kann man **immer** so ein lückenloses Rechteck legen
+* Bei Hexagonen (6 Ecken) gibt es nach dem Mathematiker [Karl Reihnhardt](https://de.wikipedia.org/wiki/Karl_Reinhardt_(Mathematiker)) nur genau Typen von Hexagonen bei denen das mögilich ist. Bei den andere Typen gehet es [bewiesenermaßen](https://gdz.sub.uni-goettingen.de/id/PPN316479497?tify={%22panX%22:0.326,%22panY%22:0.664,%22view%22:%22toc%22,%22zoom%22:0.527}) nicht.
+* Bei Polygonen mit mehr als 6 Ecken ist es garnicht möglich, egal wie diese aussehen. Dies wurde schon 1918 auch von Reinhardt in seiner [Dissatation](https://gdz.sub.uni-goettingen.de/id/PPN316479497?tify={%22panX%22:0.326,%22panY%22:0.664,%22view%22:%22toc%22,%22zoom%22:0.527}) bewiesen
+
+Also bleibt die Frage der Fünfecke übrig. Obwohl schon von viele Mathematiker*innen behauptet wurde, dass Problem sei nun auch für Fünfecke geklärt, wurden danach immer wieder neue Erkenntnisse erlangt und das Problem gilt nachwievor als ungelöst.
+
+##
+
+## Quellen
+* [Diss von Reinhardt](https://gdz.sub.uni-goettingen.de/id/PPN316479497?tify={%22panX%22:0.326,%22panY%22:0.664,%22view%22:%22toc%22,%22zoom%22:0.527})
+* [Wikipedia Parkettierung mit Fünfecken](https://de.wikipedia.org/wiki/Parkettierung_mit_F%C3%BCnfecken)
+
+
+_NOTES AUS DER SENDUNG (TEMPORÄR):_
 Problem: du willst mit Kacheln den Boden auslegen, ohen lücken.
 Nur mit einer fliese. Nur am Rand kann geschnitten werden.
 mit 4ecken geht das einfach
