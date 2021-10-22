@@ -57,7 +57,7 @@ body {
     z-index: 10;
     position: relative;
     top: -60px;
-    left: -20px;
+    left: 0px;
 }
 
 #main_nav_shadow {
@@ -91,7 +91,7 @@ body {
     font-size: 2em;
     font-weight: 100;
     position: relative;
-    left: -5px
+    left: -15px;
 }
 
 @media only screen and (max-width: 420px) {

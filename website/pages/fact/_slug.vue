@@ -79,6 +79,18 @@ img.b {
     border-radius: 3px;
     margin-bottom: 4px;
     margin-top: 4px;
+}
+
+.img_container {
+    padding: 8px;
+    background-color: rgb(238, 238, 238);
+    border-radius: 3px;
+    margin-bottom: 4px;
+    margin-top: 4px;
+    display: inline-block;
+}
+.img_container div {
+
 }    
 
 </style>
