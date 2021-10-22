@@ -13,8 +13,7 @@ episode:
     timestamp: 2509
 ---
 
-# Fixpunktsatz von Banach
-
+_NOTES AUS DER SENDUNG (TEMPORÄR):_
 veranschaulichung:
 man hat ne karte.
 Da, wo man auf der karte mit nem stift hinzeigt, kommt dann in der wirklichkeit so ein stifft.

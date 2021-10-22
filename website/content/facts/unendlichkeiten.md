@@ -12,7 +12,8 @@ episode:
     date: "30.07.2021"
     timestamp: 600
 ---
-# Verschiedengroße Unendlichkeiten 
 
+
+_NOTES AUS DER SENDUNG (TEMPORÄR):_
 Nachweißbar, dass manche Unendlichkeiten größer sind als ander (Cantor)
 

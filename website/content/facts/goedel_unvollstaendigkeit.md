@@ -12,7 +12,9 @@ episode:
     date: "06.08.2021"
     timestamp: 2330
 ---
-# Gödels Unvollständigkeitssatz
+
+
+_NOTES AUS DER SENDUNG (TEMPORÄR):_
 
 "Es gibt in jedem Mathematischen System wahre aussagen, die du nicht nachweisen kannst. Und das ist bewiesen"
 

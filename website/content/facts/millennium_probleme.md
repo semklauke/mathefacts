@@ -12,7 +12,9 @@ episode:
     date: "03.09.2021"
     timestamp: 3299
 ---
-# Die Millennium Probleme
+
+
+_NOTES AUS DER SENDUNG (TEMPORÄR):_
 
 7 ungelöste Probleme die in 2000 zusammegestellt wurden.
 bei lösen bekommt man 1000000 dollar vom Mathe Man

@@ -12,8 +12,8 @@ episode:
     date: "17.09.2021"
     timestamp: 1140
 ---
-# Survivorship Bias
 
+_NOTES AUS DER SENDUNG (TEMPORÄR):_
 Geschichte aus dem 2nten Weltkrieg.
 US army hat viele flugzeuge losgeschickt. und wenige kommen zurück
 Die chance mit einem kampfflugzeug waren gut abzustürzen.

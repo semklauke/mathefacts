@@ -12,9 +12,9 @@ episode:
     date: "13.08.2021"
     timestamp: 1676
 ---
-# Anzahl an Permutationen von Kartendecks 
-### ist 52! = 80658175170943878571660636856403766975289505440883277824000000000000
+### 52! = 80658175170943878571660636856403766975289505440883277824000000000000
 
+_NOTES AUS DER SENDUNG (TEMPORÄR):_ 
 Wenn man ein Karten Deckmischt, ist es wahrscheinlich, dass diese Kartendeck noch nie so in der Reihnfolge exestiert hat'
 Weil verschieden Möglichkeite fac 52
 Erste Karte jede offen, also 52. Dann fällt eine weg, als 51. Also 52 * 51

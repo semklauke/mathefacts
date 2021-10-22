@@ -12,7 +12,9 @@ episode:
     date: "20.08.2021"
     timestamp: 1616
 ---
-# Das Freundschaftsparadox
+
+
+_NOTES AUS DER SENDUNG (TEMPORÄR):_
 
 "Im Durschnitt haben deine Freunde mehr Freunde als du"
 Facebook Freunde

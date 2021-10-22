@@ -12,8 +12,9 @@ episode:
     date: "24.09.2021"
     timestamp: 2428
 ---
-# Veranschaulichung der Zahl 52!
 
+
+_NOTES AUS DER SENDUNG (TEMPORÄR):_
 Es geht um fac 52 (anzahl permutation kartendeck)
 beschreibung/visulaisierung  der größe
 https://czep.net/weblog/52cards.html

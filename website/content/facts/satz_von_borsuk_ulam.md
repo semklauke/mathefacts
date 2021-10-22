@@ -13,8 +13,8 @@ episode:
     date: "10.09.2021"
     timestamp: 1244
 ---
-# Satz von Borsuk-Ulam
 
+_NOTES AUS DER SENDUNG (TEMPORÄR):_
 Wenn man zwei punkte gegenüber auf der welt.
 An diese beiden punkten ist der selbe luftdruck und die selbe temperatur
 Das sagt aus, dass stetige funkion sich so ausbreiten.

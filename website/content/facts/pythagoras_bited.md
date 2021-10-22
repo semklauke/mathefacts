@@ -12,8 +12,8 @@ episode:
     date: "27.08.2021"
     timestamp: 1357
 ---
-# Satz des Pythagoras ist nicht von Pythagoras.
 
+_NOTES AUS DER SENDUNG (TEMPORÄR):_
 Der war einfach am biten.
 Es gab vorher leute, die gecheckt haben, dass diese satz gilt.
 Die Griechen haben es aber als erste beweiesen, dass der Satz im allgemeinen gilt
