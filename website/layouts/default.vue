@@ -6,7 +6,9 @@
     <div id="main_nav_filter">
         <b-container fluid tag="nav" id="main_nav">
             <b-row id="main_nav_col">
-                <b-col id="nav_logo">MATHEFACTS</b-col>
+                <b-col id="nav_logo">
+                    <NuxtLink to="/">MATHEFACTS</NuxtLink>
+                </b-col>
                 <b-col id="nav_button_col" cols="2" v-b-toggle.sidebar>
                     <b-icon icon="justify"></b-icon>
                 </b-col>
@@ -14,9 +16,13 @@
         </b-container>
     </div>
     <Nuxt />
-    <b-sidebar id="sidebar" title="Menu" right shadow>
+    <b-sidebar id="sidebar" title="" right shadow>
         <div class="px-3 py-2">
-            <ul><li>a</li><li>b</li></ul>
+            <ul class="menulist">
+                <li><NuxtLink to="/">HOME</NuxtLink></li>
+                <li><NuxtLink to="/impressum">IMPRESSUM</NuxtLink></li>
+                <!--li><a href="https://github.com/semklauke/mathefacts">GITHUB</a></li-->
+            </ul>
         </div>
     </b-sidebar>
   </div>
@@ -86,13 +92,39 @@ body {
     top:  -25px;
 }
 
+#nav_logo a {
+    text-decoration: none;
+    color: inherit;
+}
+
 #nav_button_col {
-    color:  rgba(255, 255, 255, 0.7);
+    color:  rgba(255, 255, 255, 0.8);
     font-size: 2em;
     font-weight: 100;
     position: relative;
     left: -15px;
 }
+
+#nav_button_col:hover {
+    color:  rgba(255, 255, 255, 1);
+}
+
+.menulist {
+    list-style-type: none;
+}
+.menulist li a {
+    font-size: 2.8em;
+    font-weight: 500;
+    font-family: 'Oswald';
+    color: #64AFD2;
+    text-decoration: none;
+}
+
+.menulist li a:hover,
+.menulist li a:active {
+    color: #5899B8;
+}
+
 
 @media only screen and (max-width: 420px) {
     #main_nav {
