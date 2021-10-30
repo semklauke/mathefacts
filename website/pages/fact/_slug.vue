@@ -35,6 +35,8 @@ export default Vue.extend({
 
 .spotify_frame {
     width: 100%;
+    margin-bottom: 20px;
+    margin-top: 0px;
 }
 .nuxt-content {
     font-size: 1.3em;
