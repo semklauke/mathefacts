@@ -109,7 +109,7 @@ Somit ist die Fläche alle Zylinder Unendlich groß.
 
 ### Jetzt in stetig
 
-Die Mathemaatik hiter Gabriels Horn ist noch etwas kompliziert, wird aber in diesem Video ganz gut erläuter
+Die Mathematik hinter Gabriels Horn ist noch etwas kompliziert, wird aber in diesem Video ganz gut erläuter
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yZOi9HH5ueU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -37,6 +37,8 @@ export default Vue.extend({
     width: 100%;
     margin-bottom: 20px;
     margin-top: 0px;
+    position: left;
+    left:  -3px;
 }
 .nuxt-content {
     font-size: 1.3em;
