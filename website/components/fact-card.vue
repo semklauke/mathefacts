@@ -16,7 +16,7 @@
                 {{ fact.desc }}
             </b-card-text>
             <div class="fact_tags">
-                <b-badge v-for="tag of fact.tags" :key="tag" >{{ tag }}</b-badge>
+                <b-badge v-for="tag of fact.tags" :key="tag" class="fact_tag">{{ tag }}</b-badge>
             </div>
         </b-card>
         
@@ -98,6 +98,10 @@ export default Vue.extend({
 .fact_tags {
     text-align: right;
     z-index: 5;
+}
+
+.fact_tag {
+    margin-left: 5px;
 }
 
 .fact_desc {
