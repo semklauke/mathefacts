@@ -1,6 +1,6 @@
 ---
 title: Srinivasa Ramanujan
-desc: Srinivasa Ramanujan war ein Indischer Mathematiker dessen Fähichkeiten autodidaktisch erlernt sind und erst spät erkannt wurden.
+desc: Srinivasa Ramanujan war ein Indischer Mathematiker dessen Fähichkeiten autodidaktisch erlernt waren. Seinen Entdeckungen wurden erst spät Aufmerksamkeit geschenkt.
 tags:
     - Mathe
 nr: 27

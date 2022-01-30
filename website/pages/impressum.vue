@@ -4,11 +4,11 @@
 
     <h2>Angaben gem&auml;&szlig; &sect; 5 TMG</h2>
     <p>Sem Klauke<br />
-    Vaalser Stra&szlig;e, 432<br />
-    52074 Aachen</p>
+    Aachen
+    </p>
 
     <h2>Kontakt</h2>
-    <p>Telefon: &#91;Telefonnummer&#93;<br />
+    <p>Telefon: - <br />
     E-Mail: mathefacts@semklauke.de</p>
 
     <h2>Redaktionell verantwortlich</h2>

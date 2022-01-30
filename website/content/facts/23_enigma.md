@@ -1,5 +1,5 @@
 ---
-title: Die Zahl 23 enigma und warum man sie so oft sieht
+title: Das 23 enigma
 desc: Die Zahl 23 ist überall. Sieh spielt auch bei dem Tod eines KGB Hackers aus den 80ern eine Rolle. Außerdem die Gründe, warum man die 23 so oft sieht.
 tags:
     - Mathe

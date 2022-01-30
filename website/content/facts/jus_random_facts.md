@@ -17,7 +17,7 @@ episode:
 Avocados wurden nach Geschlechtsteile bennant. Das Wort *ahuacatl* bedeuted Hoden. [Wiki](https://de.wikipedia.org/wiki/Avocado#Etymologie)
 
 ## Weitsprung
-Der Weltrekord für das Weitspringen eines Pferdes liegt niedriger and der Weltrekord für Menschen.
+Der Weltrekord für das Weitspringen eines Pferdes liegt niedriger als der Weltrekord für Menschen.
 - Menschen: 8.95m
 - Pferd: *Ju sagt im Podcast* 6.10m, *aber alle Quellen die ich finden konnte sagen* 8.4m (siehe Quellen)
 
@@ -26,7 +26,7 @@ Dieser Rekord wurde 1975 in Johannesburh, Südafrika aufgestellt.
 > BTW: Diese [Pferde Fakten Liste](https://horseyhooves.com/horse-facts/) ist nicht ganz uninteressant, auch wenn man sich (wie ich) nicht für Pferde interessiert
 
 ## Samsung
-Samsung testet die Stabilität ihrer Handys indem sie eine Roboter in Form eines Arsches gebaut, mit einer Jeans. Dieser Roboter setzte sich immer wieder hin.
+Samsung testet die Stabilität ihrer Handys indem sie eine Roboter in Form eines Arsches gebaut haben. Mit einer Jeans. Dieser Roboter setzte sich immer wieder hin.
 Die Presse nennt es den "Butt Robot".
 
 
