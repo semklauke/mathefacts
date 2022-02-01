@@ -40,6 +40,8 @@ Das stimmt so halb. Einsteil und Hilbert haben 1915 in Göttingen Zusammengearbe
 
 Man stelle sich ein Hotel vor mit unendlichen vielen Zimmer, die alle Besetzt sind. Das Hotel ist also voll. Das hört sich zunächst mal sehr krude an, aber erstens ist es nur ein Modell und zweitens ist das often in der Mathemathik so: Man definiert sich erstmal ein Szenario und schaut dann, was darus folgt. Wir definieren hier ein Hotel mit undendliche vielen Zimmern.
 
+<img src="/images/hilbert_1.jpg" class="img_full b" />
+
 #### Noch ein Zimmer frei?
 
 Kommt jetzt noch ein Gast und möchte noch ein Zimmer, ist die Antwort erstmal nein. Denn egal zu welchem der unendliche vielen Zimmern man geht, alle sind voll.
@@ -53,6 +55,8 @@ Zimmer $n$ geht in Zimmer $n+1$
 </center>
 
 Dann ist Zimmer 1 frei. Dort kann der neue Gast dann einziehen. Hmm, obwhol wir jetzt schon unendliche viele Gäste hatten. Haben wir jetzt mehr?
+
+<img src="/images/hilbert_2.jpg" class="img_full b" />
 
 #### Noch unendliche Zimmer frei?
 
@@ -69,6 +73,8 @@ Zimmer $n$ geht in Zimmer $2 \cdot n$
 </center>
 
 Da wenn man eine Zahl mal 2 nimmt, immer eine gerade Zahl herauskommt, sind jetzt unendliche viele Zimmer mit geraden Zimmer nummern besetzt, aber alle Zimmer mit einer ungeraden Zimmernummer sind frei. Da es wie man weiß unendliche viel ungerade Zahlen gibt, sind auch unendlich viel Zimmer frei und jeder aus dem Bus hat ein Zimmer, in das er gehen kann.
+
+<img src="/images/hilbert_3.jpg" class="img_full b" />
 
 #### Noch unendliche mal unendliche viele Zimmer frei?
 
@@ -104,7 +110,7 @@ Hört bei Rezo im Podcast nach oder schaut auf der [Wiki](https://en.wikipedia.o
 ## Wieder zurück zur Ausgangsfrage
 
 Die Antwort, welche der drei Mengen größer ist, lautet: die sind alle gleich Groß. Nämlich alle [abzählbar unendlich](https://de.wikipedia.org/wiki/Abz%C3%A4hlbare_Menge).
-Denn bei der Ausgangslage im Hotel, wo alle Zimmer besetzt sind, haben wir sozusagen die unendliche vielen Zimmer mit den Natürlichen Zahlen gefüllt. Denn es sind ja die Zimmer $1,2,3,\cdot$ bis unendlich gefüllt.
+Denn bei der Ausgangslage im Hotel, wo alle Zimmer besetzt sind, haben wir sozusagen die unendliche vielen Zimmer mit den Natürlichen Zahlen gefüllt. Denn es sind ja die Zimmer $1,2,3,\dots$ bis unendlich gefüllt.
 Also passen die Natürichen Zahlen in das Hotel.
 
 Die Ganzen Zahlen werden dargesellt durch den ersten Bus, der hinzukommt. Denn die postiven Zahlen sind schon im Hotel, jetzt kommmen die unendlich vielen negativen Zahlen hinzu.
@@ -132,10 +138,12 @@ Hier gibt es noch Videos, die das sehr gut Visualisieren:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XTsaZRKx9UI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 ## Quellen
+
 * [Hilberts Hotel](https://en.wikipedia.org/wiki/Hilbert%27s_paradox_of_the_Grand_Hotel)
-* [Hilberts Hotel, you missing the best bid]https://www.cantorsparadise.com/hilberts-hotel-you-re-missing-the-best-bit-ff5281b2213b
-* [History of Hilbert's Hotel](https://arxiv.org/pdf/1403.0059.pdf))
+* [Hilberts Hotel, you missing the best bid](https://www.cantorsparadise.com/hilberts-hotel-you-re-missing-the-best-bit-ff5281b2213b)
+* [History of Hilbert's Hotel](https://arxiv.org/pdf/1403.0059.pdf)
 * [David Hilbert](https://en.wikipedia.org/wiki/David_Hilbert)
 * [Hilbert's Problems](https://en.wikipedia.org/wiki/Hilbert%27s_problems)
 * [Gravitationsgleichungen](https://de.wikipedia.org/wiki/Einsteinsche_Feldgleichungen)
