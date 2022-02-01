@@ -36,7 +36,7 @@ Das liegt daran, dass die Mathematik für alle Polygone mit mehr oder weniger al
 * Bei Hexagonen (6 Ecken) gibt es nach dem Mathematiker [Karl Reihnhardt](https://de.wikipedia.org/wiki/Karl_Reinhardt_(Mathematiker)) nur genau Typen von Hexagonen bei denen das mögilich ist. Bei den andere Typen gehet es [bewiesenermaßen](https://gdz.sub.uni-goettingen.de/id/PPN316479497?tify={%22panX%22:0.326,%22panY%22:0.664,%22view%22:%22toc%22,%22zoom%22:0.527}) nicht.
 * Bei Polygonen mit mehr als 6 Ecken ist es garnicht möglich, egal wie diese aussehen. Dies wurde schon 1918 auch von Reinhardt in seiner [Dissatation](https://gdz.sub.uni-goettingen.de/id/PPN316479497?tify={%22panX%22:0.326,%22panY%22:0.664,%22view%22:%22toc%22,%22zoom%22:0.527}) bewiesen
 
-Also bleibt die Frage der Fünfecke übrig. Obwohl schon von viele Mathematiker*innen behauptet wurde, dass Problem sei nun auch für Fünfecke geklärt, wurden danach immer wieder neue Erkenntnisse erlangt und das Problem gilt nachwievor als ungelöst.
+Also bleibt die Frage der Fünfecke übrig. Obwohl schon von viele Mathematiker\*innen behauptet wurde, dass Problem sei nun auch für Fünfecke geklärt, wurden danach immer wieder neue Erkenntnisse erlangt und das Problem gilt nachwievor als ungelöst.
 
 ##
 
