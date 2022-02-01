@@ -28,6 +28,7 @@ import Vue from 'vue'
 export default Vue.extend({
     async asyncData({ $content, params }) {
         const fact = await $content('facts', params.slug).fetch()
+        //@ts-ignore
         const ghublink = "https://github.com/semklauke/mathefacts/blob/main/website/content/facts/" + fact.slug + ".md"
         return {
             fact,
