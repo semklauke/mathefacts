@@ -9,7 +9,7 @@
 
     <h2>Kontakt</h2>
     <p>Telefon: - <br />
-    E-Mail: mathefacts@semklauke.de</p>
+    E-Mail: <a href="mailto:mathefacts@semklauke.de" style="color: inherit; text-decoration:  none;">mathefacts@semklauke.de</a></p>
 
     <h2>Redaktionell verantwortlich</h2>
     <p>Sem Klauke</p>

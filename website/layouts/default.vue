@@ -21,6 +21,7 @@
             <ul class="menulist">
                 <li><NuxtLink to="/">HOME</NuxtLink></li>
                 <li><NuxtLink to="/impressum">IMPRESSUM</NuxtLink></li>
+                <li><NuxtLink to="/helpme">HELP ME!</NuxtLink></li>
                 <!--li><a href="https://github.com/semklauke/mathefacts">GITHUB</a></li-->
             </ul>
         </div>
