@@ -15,7 +15,7 @@ episode:
 
 
 ## Die Zahl 23
-*TODO*
+
 #### Rezo listet Orte wo die 23 vor kommt:
 - 
 - Der Biorythmus eines Menschen dauert 23 Tage
