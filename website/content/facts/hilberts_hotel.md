@@ -24,14 +24,21 @@ Alle Zahlen die keine Kommastelle haben heißen **Ganze Zahlen**: $ \mathbb{Z} =
 Alle Ganzen Zahlen die positv sind heißen **Natürliche Zahlen**: $ \mathbb{N} = \{0,1,2,3,\ldots,\infty\} $<br />
 Alle Zahlen die sich als Bruch schreiben lassen heißen **Rationale Zahlen**: $ \mathbb{Q} = \{\ldots,-\frac{2}{3},\ldots,\frac{1}{2},\ldots,\frac{20}{5},\ldots \}$ 
 
+<img src="https://www.ombplus.de/ombplus/semiprotected/entity/generic_image/id/1406/cache-hint/0/2" class="img_small f_right" />
 
 Jetzt die wichtige Frage: *Welche dieser Mengen ist Größer?*
 
 Ohne ein gutes Konzept von Unendlichkeit würde man denken, die Ganzen Zahlen müssten doch zumindest größer als die Natürlichen Zahlen sein, schließliche enthalten die Ganzen Zahlen ja die Natürlichen Zahlen und noch die negativen Zahlen dazu. Jetzt steigen wir mit Hilberts ein.
 
 ### David Hilbert
+
 [David Hilbert](https://en.wikipedia.org/wiki/David_Hilbert) war einer deutscher Mathematiker. Nicht nur löste Hilbert selber viele Mathematische Probleme, er war auch sehr aktiv in der Lehre stelle auch 1900 in Paris "[Hilbert's Problems](https://en.wikipedia.org/wiki/Hilbert%27s_problems)" vor. 
 Diesen waren noch ungelöste mathematische Grundsatzfragen, die zu den wichtigsten Mathemaischen erkentinissen unserer Zeit führen. Zum Beispiel [Gödels Unvollständikeits Satz](goedel_unvollstaendigkeit) war eine Antwort auf Problem Nr. 2.
+
+<span class="img_container f_right">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Hilbert.jpg" class="img_small" /><br />
+<span>David Hilbert</span>
+</span>
 
 Rezo erwähnte noch, dass Hilber vor [Einstein](https://de.wikipedia.org/wiki/Albert_Einstein) die [Allgemeine Relativitätstheorie](https://de.wikipedia.org/wiki/Allgemeine_Relativit%C3%A4tstheorie) veröffenticht haben soll.
 Das stimmt so halb. Einsteil und Hilbert haben 1915 in Göttingen Zusammengearbeitet und auch Vorlesungen gegeben. Dann hat Einstein die [Gravitationsgleichungen](https://de.wikipedia.org/wiki/Einsteinsche_Feldgleichungen) veröffentlicht, eine Elementarer Baustein der Allgemeinen Relativitätstheorie (aber das soll mal lieber ein/e Physiker\*in erklären). Hilbert veröffentlichte Zeigleich ähnliche Formel aber nutzte sie noch weiter ([Einstein-Hilbert](https://en.wikipedia.org/wiki/Einstein%E2%80%93Hilbert_action)). Hilbert gab aber Einstein full credit für seine Arbeit.
