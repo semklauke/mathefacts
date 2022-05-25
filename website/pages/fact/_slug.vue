@@ -8,7 +8,7 @@
             allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" >        
         </iframe>
         <!-- content from markdown -->
-        <nuxt-content :document="fact" />
+        <ContentDoc />
         <div class="github_button">
             <a :href="ghublink" class="gitbutton pill">
                 <span class="icon medium">
