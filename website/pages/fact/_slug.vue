@@ -32,7 +32,7 @@ export default Vue.extend({
         const ghublink = "https://github.com/semklauke/mathefacts/blob/main/website/content/facts/" + fact.slug + ".md"
         return {
             fact,
-            ghublink       
+            ghublink
         }
     },
     methods: {
