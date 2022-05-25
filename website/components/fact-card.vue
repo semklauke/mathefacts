@@ -26,24 +26,7 @@
 
 <script lang="ts">
 import Vue, { PropOptions } from 'vue'
-
-interface Episode {
-    nr: number,
-    name: string,
-    link: string,
-    embed: string,
-    date: string,
-    timestamp: number
-}
-
-interface Fact {
-  title: string,
-  desc: string,
-  tags: string[],
-  slug: string,
-  img?: string,
-  episode: Episode
-}
+import { Episode, Fact } from 'types'
 
 export default Vue.extend({
   name: 'FactCard',
@@ -74,7 +57,7 @@ export default Vue.extend({
 }
 
 .fact_card {
-    width: calc(100% - 50px);
+    /* width: calc(100% - 50px); */
     max-width: 1200px;
     margin: 5px;
     /*background-color: rgba(250, 250, 250, 1.0);*/
