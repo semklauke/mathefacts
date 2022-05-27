@@ -26,6 +26,7 @@
 import Vue from 'vue'
 
 export default Vue.extend({
+    name: "markdown_slug",
     async asyncData({ $content, params }) {
         const fact = await $content('facts', params.slug).fetch()
         //@ts-ignore
