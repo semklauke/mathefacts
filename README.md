@@ -49,42 +49,45 @@ Die View engine ist dabei Vue, TypeScript compile ist im setupw, kann aber in de
 
 Hier eine Liste, für welche Fakten es bereits weitere Informationen gibt, und welche noch Blank sind.
 Nur weil etwas als **DONE** Markiert ist, heißt es nicht, dass man nicht auch noch etwas hinzufügen kann.
+
 |Nr. | Folge | Status |
-|44|[Die Summer aller Natürlichen Zahlen](/summe_N)               | *TODO* |
-|43|[Die unendliche Bibliothek und Melodie](/bruteforce_unendlich)| *TODO* |
-|42|[Die Römer und die Schaltjahre](/schaltjahre)                 | *TODO* |
-|40|[Wie ist ein Meter definiert](/meter)                         | *TODO* |
-|39|[Lichtgeschwindigkeit](/lichtgeschwindigkeit)                 | *TODO* |
-|38|[Komische Zufälle](/zufaelle)                                 | *TODO* |
-|37|[Fermi-Paradoxon](/fermi_paradoxon)                           | *TODO* |
-|36|[Leben wir in einer Simulation ?](/leben_in_der_simulation)   | *TODO* |
-|35|[Egocentric Bias](/egocentric_bias)                           | *TODO* |
-|34|[YT Video ID](/yt_urls)                                       | *TODO* |
-|33|[Spottify Shuffel](/spotify_shuffel)                          | **DONE** |
-|32|[Die Enigma und ihr Entschlüsselung](/enigma)                 | *TODO* |
-|29|[Verschienden große Unendlichkeiten](/unendlichkeiten2)       | *TODO* |
-|28|[Hilberts Hotel](/hilberts_hotel)                             | **DONE** |
-|27|[Srinivasa Ramanujan](/srinivasa_ramanujan)                   | **FAST DONE* |
-|26|[Asian Facts](/asian_facts)                                   | **AUSBAUFÄHIG** |
-|25|[Kirchen Fact](/kirchen_fact)                                 | *TODO* |
-|24|[Computer verzählen sich manchmal](/computer_verzaehlen)      | *TODO* |
-|23|[Zipfsches Gesetz](/zipfsches_gesetz)                         | *TODO* |
-|22|[π=3.2 ? Wtf USA. (Indiana Pi Bill)](/indiana_pi_bill)        | *TODO* |
-|21|[Wie wurde π berechnet](/pi)                                  | *TODO* |
-|20|[Das 23 enigma](/23_enigma)                                   | **DONE** |
-|19|[Was ist die Beste Zahl?](/die_beste_zahl)                    | **DONE** |
-|18|[Jus Random Facts](/jus_random_facts)                         | **DONE** |
-|17|[Fermats Letzer Satz](/fermats_letzter_satz)                  | **FAST DONE** |
-|16|[Googol Zahl](/googol)                                        | *TODO* |
-|15|[Gabriel's Horn](/gabriels_horn)                              | **DONE** |
-|14|[Tessellation von Fünfecken](/tessellation_pentagon)          | *TODO* |
+|--|--------------------------------------------------------------|--------|
+|44|[Die Summer aller Natürlichen Zahlen](/summe_N)               | :x: TODO |
+|43|[Die unendliche Bibliothek und Melodie](/bruteforce_unendlich)| :x: TODO |
+|42|[Die Römer und die Schaltjahre](/schaltjahre)                 | :x: TODO |
+|40|[Wie ist ein Meter definiert](/meter)                         | :x: TODO |
+|39|[Lichtgeschwindigkeit](/lichtgeschwindigkeit)                 | :x: TODO |
+|38|[Komische Zufälle](/zufaelle)                                 | :x: TODO |
+|37|[Fermi-Paradoxon](/fermi_paradoxon)                           | :x: TODO |
+|36|[Leben wir in einer Simulation ?](/leben_in_der_simulation)   | :x: TODO |
+|35|[Egocentric Bias](/egocentric_bias)                           | :x: TODO |
+|34|[YT Video ID](/yt_urls)                                       | :x: TODO |
+|33|[Spottify Shuffel](/spotify_shuffel)                          | :white_check_mark: **DONE** |
+|32|[Die Enigma und ihr Entschlüsselung](/enigma)                 | :x: TODO |
+|29|[Verschienden große Unendlichkeiten](/unendlichkeiten2)       | :x: TODO |
+|28|[Hilberts Hotel](/hilberts_hotel)                             | :white_check_mark: **DONE** |
+|27|[Srinivasa Ramanujan](/srinivasa_ramanujan)                   | :white_check_mark: **FAST DONE** |
+|26|[Asian Facts](/asian_facts)                                   | :white_check_mark: **AUSBAUFÄHIG** |
+|25|[Kirchen Fact](/kirchen_fact)                                 | :x: TODO |
+|24|[Computer verzählen sich manchmal](/computer_verzaehlen)      | :x: TODO |
+|23|[Zipfsches Gesetz](/zipfsches_gesetz)                         | :x: TODO |
+|22|[π=3.2 ? Wtf USA. (Indiana Pi Bill)](/indiana_pi_bill)        | :x: TODO |
+|21|[Wie wurde π berechnet](/pi)                                  | :x: TODO |
+|20|[Das 23 enigma](/23_enigma)                                   | :white_check_mark: **DONE** |
+|19|[Was ist die Beste Zahl?](/die_beste_zahl)                    | :white_check_mark: **DONE** |
+|18|[Jus Random Facts](/jus_random_facts)                         | :white_check_mark: **DONE** |
+|17|[Fermats Letzer Satz](/fermats_letzter_satz)                  | :white_check_mark: **FAST DONE** |
+|16|[Googol Zahl](/googol)                                        | :x: TODO |
+|15|[Gabriel's Horn](/gabriels_horn)                              | :white_check_mark: **DONE** |
+|14|[Tessellation von Fünfecken](/tessellation_pentagon)          | :x: TODO |
 |13|[Fixpunktsatz von Banach](/fixpunktsatz_von_banach)           | Angefangen |
-|12|[Veranschaulichung der Zahl 52!](/visualisierung_fac52)       | *TODO* |
-|11|[Survivorship Bias](/survivorship_bias)                       | *TODO* |
-|10|[Der Satz von Borsuk-Ulam](/satz_von_borsuk_ulam)             | *TODO* |
-|9|[Die Millennium Probleme](/millennium_probleme)                | *TODO* |
-|8|[Pythagoras hat fett gebited](/pythagoras_bited)               | *TODO* |
-|7|[Das Freundschaftsparadox](/freundschaftsparadox)              | *TODO* |
-|6|[Anzahl an Permutationen von Kartendecks](/kartendeck)         | *TODO* |
-|5|[Gödels Unvollständigkeitssatz](/goedel_unvollstaendigkeit)    | *TODO* |
-|4|[Verschiedengroße Unendlichkeiten](/unendlichkeiten)           | *TODO* |
+|12|[Veranschaulichung der Zahl 52!](/visualisierung_fac52)       | :x: TODO |
+|11|[Survivorship Bias](/survivorship_bias)                       | :x: TODO |
+|10|[Der Satz von Borsuk-Ulam](/satz_von_borsuk_ulam)             | :x: TODO |
+|9 |[Die Millennium Probleme](/millennium_probleme)               | :x: TODO |
+|8 |[Pythagoras hat fett gebited](/pythagoras_bited)              | :x: TODO |
+|7 |[Das Freundschaftsparadox](/freundschaftsparadox)             | :x: TODO |
+|6 |[Anzahl an Permutationen von Kartendecks](/kartendeck)        | :x: TODO |
+|5 |[Gödels Unvollständigkeitssatz](/goedel_unvollstaendigkeit)   | :x: TODO |
+|4 |[Verschiedengroße Unendlichkeiten](/unendlichkeiten)          | :x: TODO |
+
