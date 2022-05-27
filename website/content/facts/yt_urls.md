@@ -12,6 +12,6 @@ episode:
     date: 11.03.2022
     timestamp: 2992
 ---
-$64^11 \approx 73 \ \mathrm{Trillionen}$ 
+$64^{11} \approx 73 \ \mathrm{Trillionen}$ 
 
 TODO

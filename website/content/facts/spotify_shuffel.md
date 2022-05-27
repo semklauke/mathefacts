@@ -38,7 +38,7 @@ Ich hab auch ein [Beispiel](https://community.spotify.com/t5/Ongoing-Issues/Plea
 #### Pattern in Zufall überrascht uns Menschen
 
 Das [Infinite monkey theorem](https://de.wikipedia.org/wiki/Infinite-Monkey-Theorem) besagt, wenn ein Affe undendlich lange auf einer Tastur tippt, hat er irgendwann mit einer sehr hohen Wahrscheinlichkeit, [Hamlet](https://de.wikipedia.org/wiki/Hamlet) geschrieben.
-Oder halt alle möglichen Kobinationen von Wörtern, wo wir bei den [Bibliothek von Babel](https://de.wikipedia.org/wiki/Die_Bibliothek_von_Babel), der [Fakt aus Folge 43](../brute_force_unendlich).
+Oder halt alle möglichen Kobinationen von Wörtern, wo wir bei den [Bibliothek von Babel](https://de.wikipedia.org/wiki/Die_Bibliothek_von_Babel), der [Fakt aus Folge 43](../bruteforce_unendlich).
 
 Das haben die btw. auch mal mit [echten Affen](https://en.wikipedia.org/wiki/Infinite_monkey_theorem#Actual_monkeys) ausprobiert, aber da kam fast nur 5 Seiten "S" raus, eben weil das alles nur ein Konzept ist.
 
