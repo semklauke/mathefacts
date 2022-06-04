@@ -53,8 +53,9 @@ Hier eine Liste, für welche Fakten es bereits weitere Informationen gibt, und w
 Nur weil etwas als **DONE** Markiert ist, heißt es nicht, dass man nicht auch noch etwas hinzufügen kann.
 
 |Nr. | Folge | Status |
-|--|--------------------------------------------------------------------------------------|--------|
-|44|[Isaac Newton](website/content/facts/isaac_newton.md)                                 | :x: TODO |
+|--|--------------------------------------------------------------------------------------|----------|
+|46|[Celsius Skala](website/content/facts/celsius_skala.md)                               | :x: TODO |
+|45|[Isaac Newton](website/content/facts/isaac_newton.md)                                 | :x: TODO |
 |44|[Die Summer aller Natürlichen Zahlen](website/content/facts/summe_N.md)               | :x: TODO |
 |43|[Die unendliche Bibliothek und Melodie](website/content/facts/bruteforce_unendlich.md)| :x: TODO |
 |42|[Die Römer und die Schaltjahre](website/content/facts/schaltjahre.md)                 | :x: TODO |
@@ -69,7 +70,7 @@ Nur weil etwas als **DONE** Markiert ist, heißt es nicht, dass man nicht auch n
 |32|[Die Enigma und ihr Entschlüsselung](website/content/facts/enigma.md)                 | :x: TODO |
 |29|[Verschienden große Unendlichkeiten](website/content/facts/unendlichkeiten2.md)       | :x: TODO |
 |28|[Hilberts Hotel](website/content/facts/hilberts_hotel.md)                             | :white_check_mark: **DONE** |
-|27|[Srinivasa Ramanujan](website/content/facts/srinivasa_ramanujan.md)                   | :white_check_mark: **FAST DONE** |
+|27|[Srinivasa Ramanujan](website/content/facts/srinivasa_ramanujan.md)                   | :white_check_mark: **DONE** |
 |26|[Asian Facts](website/content/facts/asian_facts.md)                                   | :white_check_mark: **AUSBAUFÄHIG** |
 |25|[Kirchen Fact](website/content/facts/kirchen_fact.md)                                 | :x: TODO |
 |24|[Computer verzählen sich manchmal](website/content/facts/computer_verzaehlen.md)      | :x: TODO |
@@ -79,7 +80,7 @@ Nur weil etwas als **DONE** Markiert ist, heißt es nicht, dass man nicht auch n
 |20|[Das 23 enigma](website/content/facts/23_enigma.md)                                   | :white_check_mark: **DONE** |
 |19|[Was ist die Beste Zahl?](website/content/facts/die_beste_zahl.md)                    | :white_check_mark: **DONE** |
 |18|[Jus Random Facts](website/content/facts/jus_random_facts.md)                         | :white_check_mark: **DONE** |
-|17|[Fermats Letzer Satz](website/content/facts/fermats_letzter_satz.md)                  | :white_check_mark: **FAST DONE** |
+|17|[Fermats Letzer Satz](website/content/facts/fermats_letzter_satz.md)                  | :white_check_mark: **DONE** |
 |16|[Googol Zahl](website/content/facts/googol.md)                                        | :x: TODO |
 |15|[Gabriel's Horn](website/content/facts/gabriels_horn.md)                              | :white_check_mark: **DONE** |
 |14|[Tessellation von Fünfecken](website/content/facts/tessellation_pentagon.md)          | :x: TODO |
