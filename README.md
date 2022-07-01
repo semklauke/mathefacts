@@ -54,6 +54,9 @@ Nur weil etwas als **DONE** Markiert ist, heißt es nicht, dass man nicht auch n
 
 |Nr. | Folge | Status |
 |--|--------------------------------------------------------------------------------------|----------|
+|49|[Mathematiker Battels](website/content/facts/mathematiker_battels.md)                 | :x: TODO |
+|48|[Geschichte der Zahlen](website/content/facts/geschichte_der_zahlen.md)               | :x: TODO |
+|47|[al-Chwārizmī](website/content/facts/alkhwarizmi.md)                                  | :x: TODO |
 |46|[Celsius Skala](website/content/facts/celsius_skala.md)                               | :x: TODO |
 |45|[Isaac Newton](website/content/facts/isaac_newton.md)                                 | :x: TODO |
 |44|[Die Summer aller Natürlichen Zahlen](website/content/facts/summe_N.md)               | :x: TODO |
